@@ -1,0 +1,10 @@
+{
+  "campo_numero_generado": [156, 114],
+  "campo_fecha": [505, 107],
+  "campo_cuenta": [125, 132],
+  "campo_tipo_mov": [155, 215],
+  "campo_num_doc": [372, 215],
+  "campo_monto": [571, 215],
+  "campo_cta_ing_egr": [104, 229],
+  "campo_descripcion": [315, 312]
+}
